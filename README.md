@@ -23,8 +23,7 @@ then execute `npm start`
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables from newsapi.org  site and put your credentials to your .env file
-
-`API_KEYREACT_APP_NEWS_API`
+`REACT_APP_NEWS_API=your_news_api_key`
 
 
 
